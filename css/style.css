@@ -58,7 +58,7 @@
   opacity:0.6;
 }
 hr {
-  border: 1px solid aqua;
+  border: 1px solid rgb(75, 33, 124);
   margin: 1rem;
   opacity: .25;
 }
@@ -78,12 +78,12 @@ hr {
 }
 
 ::-webkit-scrollbar-thumb {
-	background: #4856ee;
+	background: #8248ee;
 	border-radius: 30px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-	background: #3c48c5;
+	background: #653cc5;
 }
 
 ::placeholder {
