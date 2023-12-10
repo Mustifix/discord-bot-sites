@@ -19,7 +19,7 @@
 }
 
 .footer-clean ul a {
-  color:inherit;
+  color:rgb(75, 33, 124);
   text-decoration:none;
   opacity:0.8;
 }
@@ -64,13 +64,13 @@ hr {
 }
 .card {
   background-color: #2b2d30;
-  color: #fff;
+  color: #999999;
   margin-left: 9px;
 }
 
 ::-webkit-scrollbar {
 	width: 10px;
-	color: #ffffff;
+	color: #999999;
 }
 
 ::-webkit-scrollbar-track {
